@@ -1,6 +1,6 @@
 # Путешествие по России
 ------------------------
-[Проект на GitHub](https://github.com/ProstoIgor/russian-travel.git)
+[Проект на GitHub](https://github.com/ProstoIgor/Russian_travel.git)
 ---------------------
 Что вы узнаете:
  - На сколько большая наша страна;
